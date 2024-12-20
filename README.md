@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bahaa Abou Khalil</h1>
-<h3 align="center">Full Stack Software Developer | Flexible in Adapting to New Technologies</h3>
+<h5 align="center">I am adaptable to new technologies, driven by my curiosity and interest in tech career trends. As a full-stack developer, I work to fully understand every project I take on, follow best practices, and welcome feedback to keep improving.</h5>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 - 🌱 I’m currently learning **AI**
