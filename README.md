@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **AI**
 
-- 💬 Ask me about **react and laravel**
+- 💬 Ask me about **MERN and laravel**
 
 - 📫 How to reach me **bahaaaboukhalil@gmail.com**
 
